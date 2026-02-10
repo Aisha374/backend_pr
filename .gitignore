@@ -24,3 +24,7 @@ Thumbs.db
 # Build output
 dist/
 build/
+
+# allow prettier files
+!.prettierrc
+!.prettierignore
